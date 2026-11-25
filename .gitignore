@@ -1,0 +1,15 @@
+# Dataset: license not confirmed, so users download it themselves
+data/*
+!data/README.md
+
+# Python and Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environments and editor/OS files
+.venv/
+env/
+.vscode/
+.DS_Store
+Thumbs.db
